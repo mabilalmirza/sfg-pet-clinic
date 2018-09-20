@@ -19,7 +19,7 @@
         <dependency>
             <artifactId>pet-clinic-data</artifactId>
             <groupId>guru.springframework</groupId>
-            <version>${parent.version}</version>
+            <version>${project.parent.version}</version>
         </dependency>
 
         <dependency>
